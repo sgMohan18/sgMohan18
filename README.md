@@ -72,7 +72,7 @@ I'm **Mohanakumar Sugavasan**, an **Electronics and Communication Engineer** and
 | Project | Description | Repo |
 |---------|-------------|------|
 | 🎮 **Online Quiz Application** | Java, JSP, Servlets, JDBC with PostgreSQL backend | [🔗 View Repo](https://github.com/sgMohan18/Online-Quiz) |
-| 🌐 **Portfolio Website** | Responsive portfolio built with React + TailwindCSS | [🔗 View Repo](https://github.com/sgMohan18/Portfolio) |
+| 🌐 **Portfolio Website** | Responsive portfolio built with HTML + CSS + Java Script  | [🔗 View Repo](https://github.com/sgMohan18/Portfolio) |
 | 🚌 **NAVI BUS** | Real-time bus tracking app (React + Firebase) | [🔗 View Repo](https://github.com/sgMohan18/NAVIBUS) |
 
 </div>
