@@ -85,8 +85,9 @@ I'm **Mohanakumar Sugavasan**, an **Electronics and Communication Engineer** and
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgMohan18&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgMohan18&layout=compact&theme=tokyonight&hide=typescript" height="170"/>
 </p>
+
 
 ## 📫 Connect With Me  
 
